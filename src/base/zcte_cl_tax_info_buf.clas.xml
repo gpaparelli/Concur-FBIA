@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCTE_CL_TAX_INFO_BUF</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Tax information for further handling</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCTE_CL_TAX_INFO_BUF</CLSNAME>
+     <CMPNAME>CHECK_TAX_CODE_EXIST</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Check tax code exist and buffer tax info</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCTE_CL_TAX_INFO_BUF</CLSNAME>
+     <CMPNAME>GET_DATA_FROM_TAX_CODE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get tax information from tax code</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCTE_CL_TAX_INFO_BUF</CLSNAME>
+     <CMPNAME>GET_INSTANCE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get instance</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCTE_CL_TAX_INFO_BUF</CLSNAME>
+     <CMPNAME>GET_TAX_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Return tax data</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCTE_CL_TAX_INFO_BUF</CLSNAME>
+     <CMPNAME>GT_TAX_INFO</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Tax data for processing</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
