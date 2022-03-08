@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZCTE_FI</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Concur FI messages</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp; &amp; &amp; &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Report belongs to a different environment (&amp;)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Cash Advance request belongs to a different environment (&amp;)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Report &amp; has already been posted document &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Cash Advance request &amp; has already been posted document &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Field &amp; does not exists in structure &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Form &amp; not found</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Unable to dump report &amp;1 to database table ZCTE_FIT004</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Source text &amp; translated to &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Record for reprocessing not found in ZCTE_FIT003</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Critical error encountered on dtab update, process aborted.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Modified data found for document &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Start of processing report &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Start of processing cash advance &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>Vendor &amp; modified to &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>Account &amp; modified to &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>Cost object type &amp; modified to &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>Cost object &amp; modified to &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>Unable to update table ZCTE_FIT001</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>Unable to update table ZCTE_FIT003</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>Unable to update table ZCTE_FIT007</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>Document is not yet cleared &amp; &amp; &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>022</MSGNR>
+     <TEXT>Document was reversed &amp; &amp; &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>023</MSGNR>
+     <TEXT>Document was cleared &amp; &amp; &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>024</MSGNR>
+     <TEXT>Bank clearing was not found &amp; &amp; &amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>025</MSGNR>
+     <TEXT>No data found for processing</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>026</MSGNR>
+     <TEXT>File generated in generic folder (C:\CONCUR)</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>027</MSGNR>
+     <TEXT>Bank accounts not setup in ZCTE_FIT010</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>028</MSGNR>
+     <TEXT>Unable to update table ZCTE_FIT006</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>029</MSGNR>
+     <TEXT>Log table empty, unable to update</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZCTE_FI</ARBGB>
+     <MSGNR>030</MSGNR>
+     <TEXT>Error trying to delete from ZCTE_FIT006</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
